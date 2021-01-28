@@ -30,6 +30,6 @@ colorscheme e6e1
 
 ### PYTHON
 
-![PYTHON](https://raw.githubusercontent.com/veigrent/vim-colors-e6e1/master/shots/3.jpg)
-![PYTHON](https://raw.githubusercontent.com/veigrent/vim-colors-e6e1/master/shots/5.jpg)
+![PYTHON](https://cdn.jsdelivr.net/gh/veigrent/vim-colors-e6e1/shots/3.jpg)
+![PYTHON](https://cdn.jsdelivr.net/gh/veigrent/vim-colors-e6e1/shots/5.jpg)
 
