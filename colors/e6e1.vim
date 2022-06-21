@@ -565,6 +565,8 @@ hi! link Operator Normal
 " Any other keyword
 hi! link Keyword MY_Red
 
+hi! link Terminal Normal
+
 " Variable name
 hi! link Identifier MY_Blue
 " Function name
